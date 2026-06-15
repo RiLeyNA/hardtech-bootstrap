@@ -1,0 +1,23 @@
+/*
+HardTech 1.0 survival-start profile.
+Default Towns and Towers density is visually busy and can make initial spawn
+generation slow with the rest of the structure/worldgen stack enabled.
+*/
+{
+	"towers": {
+		"spacing": 80,
+		"separation": 40,
+		"frequency": 0.12,
+		"salt": 205745294
+	},
+	"other": {
+		"spacing": 64,
+		"separation": 32,
+		"salt": 30084234
+	},
+	"towns": {
+		"spacing": 80,
+		"separation": 40,
+		"salt": 10587309
+	}
+}

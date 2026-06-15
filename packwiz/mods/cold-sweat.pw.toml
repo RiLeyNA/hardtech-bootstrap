@@ -1,0 +1,13 @@
+name = "Cold Sweat"
+filename = "ColdSweat-2.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uXhSmPjd/versions/tuOTAf8L/ColdSweat-2.4.1.jar"
+hash-format = "sha512"
+hash = "743b69e61f4086dae1c02a68161385b20931b58939de48d89dc84b86dc28238220e26cc2bf3f83a02712e50c053e5152c16c807d7ef7dc36fccad42b8594dac0"
+
+[update]
+[update.modrinth]
+mod-id = "uXhSmPjd"
+version = "tuOTAf8L"

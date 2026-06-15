@@ -1,0 +1,32 @@
+{
+  "display": {
+    "title": {
+      "text": "Rail Construction"
+    },
+    "subtitle": {
+      "text": "Build the first bulk route"
+    },
+    "description": [
+      "Move from hand logistics to a deliberate rail corridor between extraction and processing.",
+      "Before this gate is closed, verify rail placement, switches, rolling stock placement, basic fuel/control, movement through chunk boundaries, and save/reload."
+    ],
+    "groups": {
+      "HardTech 1.0": {
+        "position": [
+          600,
+          120
+        ]
+      }
+    }
+  },
+  "dependencies": [
+    "rail_readiness"
+  ],
+  "tasks": {
+    "confirm_rail_construction_gate": {
+      "type": "heracles:check",
+      "title": "Acknowledge the first rail construction gate"
+    }
+  },
+  "rewards": {}
+}

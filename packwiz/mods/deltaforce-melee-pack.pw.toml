@@ -1,0 +1,13 @@
+name = "[TACZ] DeltaForce Melee Pack"
+filename = "DeltaForce Melee Pack-0.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8477f6d8f7c589baa54a7d54d8890da2ae756ac7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8136153
+project-id = 1382917

@@ -1,0 +1,7 @@
+{
+  "name": "HardTech Field Manual",
+  "landing_text": "HardTech 1.0 is an expert-lite industrial survival pack. This manual tracks the intended path: geology, mining, rail, heavy processing, digital logistics, nuclear systems, and infrastructure.",
+  "version": 1,
+  "creative_tab": "minecraft:tools_and_utilities",
+  "use_resource_pack": true
+}

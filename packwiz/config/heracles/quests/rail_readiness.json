@@ -1,0 +1,32 @@
+{
+  "display": {
+    "title": {
+      "text": "Rail Readiness"
+    },
+    "subtitle": {
+      "text": "Heavy logistics before sprawl"
+    },
+    "description": [
+      "Rail should become the first serious answer to distance, bulk ore, and regional industry.",
+      "Before the main survival world is approved, Immersive Railroading still needs player rail placement, rolling stock placement, fuel/control, movement, chunk-boundary movement, coupling, and save/reload checks."
+    ],
+    "groups": {
+      "HardTech 1.0": {
+        "position": [
+          480,
+          0
+        ]
+      }
+    }
+  },
+  "dependencies": [
+    "first_processing_line"
+  ],
+  "tasks": {
+    "confirm_rail_gate": {
+      "type": "heracles:check",
+      "title": "Acknowledge the open IR gameplay gate"
+    }
+  },
+  "rewards": {}
+}

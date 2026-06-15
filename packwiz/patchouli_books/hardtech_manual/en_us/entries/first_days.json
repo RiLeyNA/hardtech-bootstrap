@@ -1,0 +1,18 @@
+{
+  "name": "First Days",
+  "icon": "minecraft:iron_pickaxe",
+  "category": "patchouli:getting_started",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Geology First",
+      "text": "Start by reading the land. Surface samples and ore clues matter more than random branch mining. Early progression should push scouting, mapping, and deposit planning."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Early Industry",
+      "text": "The first industrial goal is controlled processing, not instant high-tech. IE/Create should carry early mechanics; Mekanism remains a later secondary layer."
+    }
+  ]
+}

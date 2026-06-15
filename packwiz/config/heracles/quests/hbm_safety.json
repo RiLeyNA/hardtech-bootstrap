@@ -1,0 +1,32 @@
+{
+  "display": {
+    "title": {
+      "text": "HBM Safety"
+    },
+    "subtitle": {
+      "text": "Nuclear systems are infrastructure"
+    },
+    "description": [
+      "The current HardTech-HBM layer is a tested modern subset, not full HBM/NTM parity.",
+      "Before long-term survival approval, manually check HBM GUIs, JEI categories, radiation HUD/audio, hazmat visuals/shielding, and user-driven save/reload."
+    ],
+    "groups": {
+      "HardTech 1.0": {
+        "position": [
+          600,
+          0
+        ]
+      }
+    }
+  },
+  "dependencies": [
+    "rail_readiness"
+  ],
+  "tasks": {
+    "confirm_hbm_safety": {
+      "type": "heracles:check",
+      "title": "Acknowledge HBM safety gate"
+    }
+  },
+  "rewards": {}
+}

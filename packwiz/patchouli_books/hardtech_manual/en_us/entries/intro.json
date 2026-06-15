@@ -1,0 +1,18 @@
+{
+  "name": "HardTech 1.0",
+  "icon": "minecraft:compass",
+  "category": "patchouli:getting_started",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Progression",
+      "text": "Main path: geology -> mining -> railways -> heavy processing -> digital logistics -> HBM nuclear systems -> large infrastructure."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "Pack Rule",
+      "text": "Do not treat early test worlds as permanent. The long-term survival world starts only after worldgen, Geolosys, IR, HBM, Distant Horizons, and server/client smoke gates are frozen."
+    }
+  ]
+}

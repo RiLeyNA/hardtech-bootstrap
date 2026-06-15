@@ -1,0 +1,33 @@
+{
+  "display": {
+    "title": {
+      "text": "Survival Readiness"
+    },
+    "subtitle": {
+      "text": "Approval is evidence-based"
+    },
+    "description": [
+      "A long-term world is only safe after client, dedicated server, IR, HBM, worldgen, Distant Horizons, shaders, save/reload, and play-session gates are backed by evidence.",
+      "This quest is a visible reminder that the modpack can be playable before it is declared survival-ready."
+    ],
+    "groups": {
+      "HardTech 1.0": {
+        "position": [
+          960,
+          0
+        ]
+      }
+    }
+  },
+  "dependencies": [
+    "digital_logistics",
+    "nuclear_infrastructure"
+  ],
+  "tasks": {
+    "confirm_survival_readiness_gate": {
+      "type": "heracles:check",
+      "title": "Acknowledge the survival readiness gate"
+    }
+  },
+  "rewards": {}
+}

@@ -1,0 +1,8 @@
+name = "UniversalModCore-1.20.1-forge-1.2.2-fc6419c-hardtech-serverfix1"
+filename = "UniversalModCore-1.20.1-forge-1.2.2-fc6419c-hardtech-serverfix1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/RiLeyNA/hardtech-bootstrap/releases/download/packwiz-assets-0.1.0/UniversalModCore-1.20.1-forge-1.2.2-fc6419c-hardtech-serverfix1.jar"
+hash-format = "sha256"
+hash = "110daadd78cbd8e025dfc4703a3226fa477f9452d4830dc44a7ba531b8a2ed1e"

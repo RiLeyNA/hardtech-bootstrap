@@ -1,0 +1,8 @@
+name = "ImmersiveRailroading-1.20.1-forge-1.10.0-8d1e2ff-hardtech-contextloader1"
+filename = "ImmersiveRailroading-1.20.1-forge-1.10.0-8d1e2ff-hardtech-contextloader1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/RiLeyNA/hardtech-bootstrap/releases/download/packwiz-assets-0.1.0/ImmersiveRailroading-1.20.1-forge-1.10.0-8d1e2ff-hardtech-contextloader1.jar"
+hash-format = "sha256"
+hash = "85d79e957a53e5e0915077350b0ebfb90e478575b8d2e2cbc4698e4c54b29bdd"

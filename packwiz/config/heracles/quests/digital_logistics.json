@@ -1,0 +1,32 @@
+{
+  "display": {
+    "title": {
+      "text": "Digital Logistics"
+    },
+    "subtitle": {
+      "text": "Control before shortcuts"
+    },
+    "description": [
+      "Digital storage and control should support existing heavy industry instead of replacing the early progression.",
+      "Before this gate is approved, check AE2, XNet, Integrated Dynamics, RFTools, and Mekanism so they do not bypass geology, rail, and heavy processing."
+    ],
+    "groups": {
+      "HardTech 1.0": {
+        "position": [
+          840,
+          120
+        ]
+      }
+    }
+  },
+  "dependencies": [
+    "heavy_processing"
+  ],
+  "tasks": {
+    "confirm_digital_logistics_gate": {
+      "type": "heracles:check",
+      "title": "Acknowledge the digital logistics gate"
+    }
+  },
+  "rewards": {}
+}

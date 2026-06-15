@@ -1,0 +1,13 @@
+name = "HardTech 1.0"
+author = "kiber"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2e25400921ad1fc789169c05f88c4f5c82350d5f91fc8fefd9acf6d8c5f3f6de"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"

@@ -1,0 +1,32 @@
+{
+  "display": {
+    "title": {
+      "text": "Heavy Processing"
+    },
+    "subtitle": {
+      "text": "Bulk ore becomes infrastructure"
+    },
+    "description": [
+      "The first stable industry layer should combine geology, rail logistics, Immersive Engineering, Create, and the early HardTech-HBM processing path.",
+      "This gate is not balanced until recipes, ore availability, byproducts, power demand, and machine persistence are checked in a real survival loop."
+    ],
+    "groups": {
+      "HardTech 1.0": {
+        "position": [
+          720,
+          120
+        ]
+      }
+    }
+  },
+  "dependencies": [
+    "rail_construction"
+  ],
+  "tasks": {
+    "confirm_heavy_processing_gate": {
+      "type": "heracles:check",
+      "title": "Acknowledge the heavy processing gate"
+    }
+  },
+  "rewards": {}
+}

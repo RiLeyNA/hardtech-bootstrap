@@ -1,0 +1,60 @@
+{
+  "modPriorities": [
+    "minecraft",
+    "kubejs",
+    "hardtech_hbm",
+    "crafttweaker",
+    "create",
+    "immersiveengineering",
+    "mekanism",
+    "thermal"
+  ],
+  "stoneStrata": [
+    "stone",
+    "andesite",
+    "deepslate",
+    "diorite",
+    "granite",
+    "nether",
+    "end"
+  ],
+  "tags": [
+    "forge:nuggets/{material}",
+    "forge:dusts/{material}",
+    "forge:ingots/{material}",
+    "forge:plates/{material}",
+    "forge:storage_blocks/{material}"
+  ],
+  "materials": [
+    "advanced_alloy",
+    "aluminium",
+    "aluminum",
+    "beryllium",
+    "copper",
+    "lead",
+    "lithium",
+    "nickel",
+    "plutonium",
+    "red_copper",
+    "silver",
+    "steel",
+    "thorium",
+    "titanium",
+    "tungsten",
+    "uranium"
+  ],
+  "priorityOverrides": {},
+  "customTags": {},
+  "tagOwnerships": {},
+  "itemTagInheritanceMode": "ALLOW",
+  "itemTagInheritance": {},
+  "blockTagInheritanceMode": "ALLOW",
+  "blockTagInheritance": {},
+  "ignoredTags": [],
+  "ignoredItems": [],
+  "ignoredRecipeTypes": [
+    "cucumber:shaped_tag"
+  ],
+  "ignoredRecipes": [],
+  "itemsHidingJeiRei": true
+}

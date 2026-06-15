@@ -1,0 +1,8 @@
+name = "MVP-IR-1.8-mc1.12.2-by-FrozeRain"
+filename = "MVP-IR-1.8-mc1.12.2-by-FrozeRain.zip"
+side = "both"
+
+[download]
+url = "https://github.com/RiLeyNA/hardtech-bootstrap/releases/download/packwiz-assets-0.1.0/MVP-IR-1.8-mc1.12.2-by-FrozeRain.zip"
+hash-format = "sha256"
+hash = "f2250256d7f84e789c517686dedb8a2450b6b8b67c1fa9e0e393c24c09bdd934"

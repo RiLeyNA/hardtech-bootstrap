@@ -1,0 +1,32 @@
+{
+  "display": {
+    "title": {
+      "text": "Geology Scouting"
+    },
+    "subtitle": {
+      "text": "Read the land before mining"
+    },
+    "description": [
+      "Start by scouting surface samples, exposed stone, rivers, low hills, forests, and swamp edges.",
+      "The first survival route should reward mapping deposits and terrain, not blind branch mining."
+    ],
+    "groups": {
+      "HardTech 1.0": {
+        "position": [
+          120,
+          0
+        ]
+      }
+    }
+  },
+  "dependencies": [
+    "welcome"
+  ],
+  "tasks": {
+    "confirm_scouting": {
+      "type": "heracles:check",
+      "title": "Confirm geology scouting plan"
+    }
+  },
+  "rewards": {}
+}

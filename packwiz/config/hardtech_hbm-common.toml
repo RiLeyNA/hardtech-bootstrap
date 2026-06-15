@@ -1,0 +1,13 @@
+[radiation]
+
+	[radiation.inventory]
+		#Enable active radiation from radioactive HBM items carried by players.
+		enabled = true
+		#Multiplier for carried-item radiation dose rate. Use values below 1.0 for easier testing.
+		#Range: 0.0 ~ 100.0
+		doseMultiplier = 1.0
+		#Multiplier for passive active-dose recovery while no radioactive items are carried.
+		#Range: 0.0 ~ 100.0
+		recoveryMultiplier = 1.0
+		#Show actionbar warning with SI dose-rate while carrying radioactive HBM items.
+		actionbarWarning = true

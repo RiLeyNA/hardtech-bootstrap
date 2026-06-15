@@ -1,0 +1,30 @@
+{
+  "display": {
+    "title": {
+      "text": "HardTech 1.0"
+    },
+    "subtitle": {
+      "text": "Expert-Lite industrial survival"
+    },
+    "description": [
+      "HardTech is built around geology, deliberate extraction, rail logistics, heavy processing, digital control, and nuclear infrastructure.",
+      "This quest tree is a first baseline guide, not a finished balance pass. Do not treat Mekanism as the main progression center."
+    ],
+    "groups": {
+      "HardTech 1.0": {
+        "position": [
+          0,
+          0
+        ]
+      }
+    }
+  },
+  "dependencies": [],
+  "tasks": {
+    "read_pack_rule": {
+      "type": "heracles:check",
+      "title": "Read the HardTech progression rule"
+    }
+  },
+  "rewards": {}
+}

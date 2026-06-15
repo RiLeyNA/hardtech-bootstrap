@@ -1,0 +1,8 @@
+name = "MPT-4"
+filename = "MPT-4.zip"
+side = "both"
+
+[download]
+url = "https://github.com/RiLeyNA/hardtech-bootstrap/releases/download/packwiz-assets-0.1.0/MPT-4.zip"
+hash-format = "sha256"
+hash = "bc93c16f93df737072120eb6b5514883ea1e97196199387acd75a89e62770818"

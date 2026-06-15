@@ -1,0 +1,18 @@
+{
+  "name": "Open Gates",
+  "icon": "minecraft:redstone_torch",
+  "category": "patchouli:getting_started",
+  "sortnum": 20,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "title": "Before Freeze",
+      "text": "Required before the permanent world: client worldgen approval, Geolosys balance, IR pass, HBM client in-world pass, Distant Horizons visual/performance pass, and a clean dedicated-server stability pass."
+    },
+    {
+      "type": "patchouli:text",
+      "title": "IR Status",
+      "text": "Current IR candidate is isolated. It reaches dedicated server startup but logs IR/UMC classloading errors, so it is not approved for the main baseline."
+    }
+  ]
+}

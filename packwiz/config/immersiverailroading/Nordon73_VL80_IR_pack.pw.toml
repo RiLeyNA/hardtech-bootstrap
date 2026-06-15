@@ -1,0 +1,8 @@
+name = "Nordon73_VL80_IR_pack"
+filename = "Nordon73_VL80_IR_pack.zip"
+side = "both"
+
+[download]
+url = "https://github.com/RiLeyNA/hardtech-bootstrap/releases/download/packwiz-assets-0.1.0/Nordon73_VL80_IR_pack.zip"
+hash-format = "sha256"
+hash = "f2209e3cb5c5457660f503e0f892edc525ebbe6101556b872a21b4fd4fe0676f"

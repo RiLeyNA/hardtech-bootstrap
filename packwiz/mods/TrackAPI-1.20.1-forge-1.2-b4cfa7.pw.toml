@@ -1,0 +1,8 @@
+name = "TrackAPI-1.20.1-forge-1.2-b4cfa7"
+filename = "TrackAPI-1.20.1-forge-1.2-b4cfa7.jar"
+side = "both"
+
+[download]
+url = "https://github.com/RiLeyNA/hardtech-bootstrap/releases/download/packwiz-assets-0.1.0/TrackAPI-1.20.1-forge-1.2-b4cfa7.jar"
+hash-format = "sha256"
+hash = "8b03760690450f293cf24500f410782ffd1eadf3e8f714ccfa25f3a00d48ca40"

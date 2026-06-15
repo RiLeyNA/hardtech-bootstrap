@@ -1,0 +1,8 @@
+name = "tank_rzd"
+filename = "tank_rzd.zip"
+side = "both"
+
+[download]
+url = "https://github.com/RiLeyNA/hardtech-bootstrap/releases/download/packwiz-assets-0.1.0/tank_rzd.zip"
+hash-format = "sha256"
+hash = "d3eeaa3f28cfd8b4dd86f65bf046a803c7b6352b9c31c9895a45dcf83a882fd9"

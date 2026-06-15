@@ -1,0 +1,32 @@
+{
+  "display": {
+    "title": {
+      "text": "First Deposit"
+    },
+    "subtitle": {
+      "text": "Choose a useful ore field"
+    },
+    "description": [
+      "Pick the first extraction site around a visible deposit, not around a random cave.",
+      "Early copper, iron, lead, aluminium, and uranium-related clues should define where the first base grows."
+    ],
+    "groups": {
+      "HardTech 1.0": {
+        "position": [
+          240,
+          0
+        ]
+      }
+    }
+  },
+  "dependencies": [
+    "geology_scouting"
+  ],
+  "tasks": {
+    "confirm_deposit": {
+      "type": "heracles:check",
+      "title": "Mark a first deposit route"
+    }
+  },
+  "rewards": {}
+}

@@ -1,0 +1,33 @@
+{
+  "display": {
+    "title": {
+      "text": "Nuclear Infrastructure"
+    },
+    "subtitle": {
+      "text": "HBM is a system, not a shortcut"
+    },
+    "description": [
+      "The current HardTech-HBM subset covers early nuclear-adjacent machines, SI displays, radiation tools, shielding, heat, fluids, steam, and a simple fission heat source.",
+      "This gate stays open until current HBM GUIs, JEI categories, radiation HUD/audio, hazmat behavior, reactor-chain persistence, and survival recipe balance are manually inspected."
+    ],
+    "groups": {
+      "HardTech 1.0": {
+        "position": [
+          720,
+          -120
+        ]
+      }
+    }
+  },
+  "dependencies": [
+    "hbm_safety",
+    "heavy_processing"
+  ],
+  "tasks": {
+    "confirm_nuclear_infrastructure_gate": {
+      "type": "heracles:check",
+      "title": "Acknowledge the nuclear infrastructure gate"
+    }
+  },
+  "rewards": {}
+}
