@@ -3,6 +3,6 @@ filename = "IRCM_ tracks_and_contact_wire.zip"
 side = "both"
 
 [download]
-url = "https://github.com/RiLeyNA/hardtech-bootstrap/releases/download/packwiz-assets-0.1.0/IRCM_%20tracks_and_contact_wire.zip"
+url = "https://github.com/RiLeyNA/hardtech-bootstrap/releases/download/packwiz-assets-0.1.0/IRCM_.tracks_and_contact_wire.zip"
 hash-format = "sha256"
 hash = "ac685d1bd5b6c834843784cf4e21c81603335530c86ca14c98084693993a122a"
